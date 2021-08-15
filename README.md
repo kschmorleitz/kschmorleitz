@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kschmorleitz
+- 👋 Hi, I’m Kristen
 - 👀 I’m interested in healthcare, data analytics, and helping others 
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything where I can learn something new :)
